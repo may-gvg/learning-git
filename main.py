@@ -1,4 +1,7 @@
 print ("Hiszpańska inkwizycja' to najlepszy skecz grupy Monthy Pythona")
+print ("a Tool to najlepsza kapela")
+
+
 print ("")
 
 lista_zakupów = {
