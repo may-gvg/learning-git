@@ -1,8 +1,10 @@
+
+
 print ("Hiszpańska inkwizycja' to najlepszy skecz grupy Monthy Pythona")
 print ("a Tool to najlepsza kapela")
-
-
-print ("")
+print (" lol")
+print (" lol2")
+print ("pozdrawiam serdecznie Piotra")
 
 lista_zakupów = {
     "Warzywniak": ['Marchew', 'Seler', 'Rukola'],
